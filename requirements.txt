@@ -1,4 +1,7 @@
 flask
 pandas
-fuzzywuzzy
-python-Levenshtein
+sentence-transformers
+scikit-learn
+numpy
+openpyxl
+
